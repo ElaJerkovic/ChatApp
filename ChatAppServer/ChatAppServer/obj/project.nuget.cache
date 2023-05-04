@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "alY06J5e0rDPfc7hbtvEZH3g2cHxS/TZWCTTIelorioexdz2ZNAgU4DBIRVcF2ayTaxxrmPQiUbapkh6CNH1RQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Telica\\Desktop\\ChatApp\\ChatAppServer\\ChatAppServer\\ChatClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Telica\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
